@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="280dp"
+    android:padding="16dp">
+
+    <ImageView
+         android:layout_width="100dp"
+         android:layout_height="100dp"
+         android:background="@drawable/correct"
+         android:layout_gravity="center"
+         android:id="@id/image"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scoreText"
+        android:text="4/5"
+        android:textStyle="bold"
+        android:textSize="28sp"
+        android:gravity="center"
+        />
+  <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/remarksTextView"
+        android:text="Very Good Result You Tried"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        />
+  
+    <androidx.appcompat.widget.AppCompatButton
+           android:layout_width="180dp"
+           android:layout_height="35dp"
+           android:text="Go Home"
+           android:textStyle="bold"
+           android:gravity="center"
+           android:layout_gravity="center_horizontal"
+           android:background="@drawable/roundbutton"
+           android:layout_marginTop="25dp"
+          android:id="@+id/goHomeButton"
+          android:textColor="@color/white"/>
+</LinearLayout>

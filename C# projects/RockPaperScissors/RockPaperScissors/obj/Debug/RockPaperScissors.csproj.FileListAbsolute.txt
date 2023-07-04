@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+c:\users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

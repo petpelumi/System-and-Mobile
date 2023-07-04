@@ -1,0 +1,48 @@
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\bin\Debug\JetShooter.exe.config
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.JetShooter.resources
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\bin\Debug\JetShooter.exe
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\bin\Debug\JetShooter.pdb
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.exe
+c:\users\user\documents\visual studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.pdb
+C:\Users\USER\Desktop\JetShooter\JetShooter\bin\Debug\JetShooter.exe.config
+C:\Users\USER\Desktop\JetShooter\JetShooter\obj\Debug\JetShooter.exe
+C:\Users\USER\Desktop\JetShooter\JetShooter\obj\Debug\JetShooter.pdb
+C:\Users\USER\Desktop\JetShooter\JetShooter\bin\Debug\JetShooter.exe
+C:\Users\USER\Desktop\JetShooter\JetShooter\bin\Debug\JetShooter.pdb
+C:\Users\USER\Desktop\JetShooter\JetShooter\obj\Debug\JetShooter.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\JetShooter\JetShooter\obj\Debug\JetShooter.JetShooter.resources
+C:\Users\USER\Desktop\JetShooter\JetShooter\obj\Debug\JetShooter.Properties.Resources.resources
+C:\Users\USER\Desktop\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\JetShooter\JetShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\bin\Debug\JetShooter.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\bin\Debug\JetShooter.exe
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\bin\Debug\JetShooter.pdb
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.JetShooter.resources
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.exe
+C:\Users\USER\Documents\Visual Studio 2022\Projects\JetShooter\JetShooter\obj\Debug\JetShooter.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\bin\Debug\JetShooter.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\bin\Debug\JetShooter.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\bin\Debug\JetShooter.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.JetShooter.resources
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\JetShooter\JetShooter\obj\Debug\JetShooter.pdb

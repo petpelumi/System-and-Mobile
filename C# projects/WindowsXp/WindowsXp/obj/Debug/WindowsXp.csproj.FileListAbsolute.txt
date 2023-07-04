@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\bin\Debug\WindowsXp.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\bin\Debug\WindowsXp.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\bin\Debug\WindowsXp.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\WindowsXp\WindowsXp\obj\Debug\WindowsXp.csproj.CopyComplete

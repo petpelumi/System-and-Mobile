@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\bin\Debug\Disc_Movement.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\bin\Debug\Disc_Movement.exe
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\bin\Debug\Disc_Movement.pdb
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\obj\Debug\Disc_Movement.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\obj\Debug\Disc_Movement.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\obj\Debug\Disc_Movement.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\obj\Debug\Disc_Movement.exe
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\obj\Debug\Disc_Movement.pdb
+c:\users\user\documents\visual studio 2013\Projects\Disc_Movement\Disc_Movement\obj\Debug\Disc_Movement.Disc.resources

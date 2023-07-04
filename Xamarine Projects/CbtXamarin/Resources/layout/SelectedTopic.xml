@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/quizImage"
+        android:src="@drawable/history"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/quizTopicText"
+        android:text="Topic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <TextView
+         android:id="@+id/quizImageDescriptionText"
+         android:textSize="15sp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_margin="20dp"
+         android:layout_gravity="center"
+         android:text="Lorem Ipsum or lipsum as it is sometimes known is dummy text used un laying out print, graphics or web designs. the Passages is attributed to an unknown typesetter in the 15th century whi is thought to" 
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/startQuizButton"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="50dp"
+        android:text="Start Quiz"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:background="@drawable/roundbutton"
+       />
+
+</RelativeLayout>
+</LinearLayout>

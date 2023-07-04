@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\bin\Debug\SortingNumbers.exe
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\bin\Debug\SortingNumbers.pdb
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.frmSorting.resources
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.exe
+c:\users\user\documents\visual studio 2013\Projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\bin\Debug\SortingNumbers.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\bin\Debug\SortingNumbers.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.frmSorting.resources
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\SortingNumbers\SortingNumbers\obj\Debug\SortingNumbers.pdb

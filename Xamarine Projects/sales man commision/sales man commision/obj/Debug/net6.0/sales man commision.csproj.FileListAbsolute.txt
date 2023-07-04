@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\bin\Debug\net6.0\sales man commision.exe
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\bin\Debug\net6.0\sales man commision.deps.json
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\bin\Debug\net6.0\sales man commision.runtimeconfig.json
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\bin\Debug\net6.0\sales man commision.dll
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\bin\Debug\net6.0\sales man commision.pdb
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.AssemblyInfo.cs
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.dll
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\refint\sales man commision.dll
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.pdb
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\sales man commision.genruntimeconfig.cache
+C:\Users\USER\Documents\Visual Studio 2022\Projects 2\sales man commision\sales man commision\obj\Debug\net6.0\ref\sales man commision.dll

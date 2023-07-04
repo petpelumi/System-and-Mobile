@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\bin\Debug\ROCK_PAPER_SCISSORS.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\bin\Debug\ROCK_PAPER_SCISSORS.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\bin\Debug\ROCK_PAPER_SCISSORS.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\bin\Debug\ROCK_PAPER_SCISSORS.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\bin\Debug\ROCK_PAPER_SCISSORS.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\bin\Debug\ROCK_PAPER_SCISSORS.pdb
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.exe
+C:\Users\USER\Documents\Visual Studio 2022\C# projects\ROCK_PAPER_SCISSORS\ROCK_PAPER_SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.pdb
